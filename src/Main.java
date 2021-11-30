@@ -15,16 +15,16 @@ public class Main {
                 option = Integer.parseInt(sc.next());
                 switch (option) {
                     case 1:
-                        System.out.print("Bienvenido estas en la Opcion 1! \nEn esta opcion podras sumar dos numeros. \n");
+                        System.out.print("Bienvenido estas en la Opcion 1! \n");
                         break;
                     case 2:
-                        System.out.print("Bienvenido estas en la Opcion 2! \nEn esta opcion podras ingresar tu nombre y apellido. \n");
+                        System.out.print("Bienvenido estas en la Opcion 2! \n");
                         break;
                     case 3:
-                        System.out.print("Bienvenido estas en la Opcion 3! \nEn esta opcion podras sumar dos numeros. \n");
+                        System.out.print("Bienvenido estas en la Opcion 3! \n");
                         break;
                     case 4:
-                        System.out.print("Bienvenido estas en la Opcion 4! \nEn esta opcion podras ingresar tu nombre y apellido. \n");
+                        System.out.print("Bienvenido estas en la Opcion 4! \n");
                         break;
                     case 5:
                         System.out.print("Hasta luego!");
